@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.cardPage {
+  background-color: aqua;
+}

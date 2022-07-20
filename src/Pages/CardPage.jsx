@@ -35,7 +35,7 @@ export default function CardPage() {
   };
 
   return (
-    <div>
+    <div className="cardPage">
       <Search
         search={(searchValue) => {
           setSearch(searchValue);
